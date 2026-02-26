@@ -45,7 +45,16 @@ Example Output
 
 --- Library Inventory ---
 ID: 101 | Title: C++ Programming | Author: Bjarne Stroustrup | Status: Available
+
+
+
+<div align="center">
+
+**Created by Mert Batu Bülbül**
+
+💻 Computer Engineering Freshman (1st Year Student) 💻
+
+</div>
 -------------------------
 
-[Will is borrowing the C++ Programming book...]
->> Success: Book borrowed.
+
