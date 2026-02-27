@@ -12,7 +12,7 @@ A simple, console-based Library Management System built with C++ using Object-Or
 
 ## File Structure
 
-The project is divided into modular files for better readability and maintenance:
+The project is divided into modular files for better readability and maintenance.
 
 - `Book.h` & `Book.cpp`: Defines the Book class and its attributes (title, author, status).
 - `User.h` & `User.cpp`: Defines the User class (name, user ID).
@@ -56,5 +56,6 @@ ID: 101 | Title: C++ Programming | Author: Bjarne Stroustrup | Status: Available
 
 </div>
 -------------------------
+
 
 
